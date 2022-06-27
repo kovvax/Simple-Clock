@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656325061 source:c:\users\kova\desktop\info\projecttt\main.cpp
+	<string.h>
+	<iostream>
+	<windows.h>
+
